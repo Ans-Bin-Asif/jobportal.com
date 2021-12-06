@@ -1,2 +1,2 @@
-# jobportal.com 
-Job Portal Web Application Using Django Framework  
+# jobportal
+Job Portal Web Application Using Django Framework (FYP) 
